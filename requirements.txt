@@ -1,0 +1,4 @@
+requests
+pyvis
+networkx
+beautifulsoup4
